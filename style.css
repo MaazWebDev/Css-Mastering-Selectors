@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: brown;
+    background-color: lightcoral;
+}
+a{
+    color: darkgreen;
+    background-color: lightgreen;
+}
+.para1{
+    font-size: 20px;
+    text-shadow: 5px;
+    color: orangered;
+    background-color: aliceblue;
+}
